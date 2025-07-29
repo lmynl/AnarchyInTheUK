@@ -50,10 +50,15 @@ Proxies can be traced, but ephemeral VPS tunnels can't.
 Feature	SSH Tunnel	Commercial VPNs
 
 True E2E Encryption	✅ Yes	❌ Sometimes (depends)
+
 Zero Logging	✅ You control it	❌ Often logs exist
+
 Real Anonymity	✅ Bring your own VPS	❌ ID often required
+
 Speed	🚀 Unthrottled	🐢 Throttled/shared
+
 Region Unlocking	✅ Any country you want	✅ Limited
+
 Cost	💰$2–$5/mo VPS	💸 $10–$15/mo recurring
 
 
@@ -155,9 +160,13 @@ sudo reboot
 Provider	Plan Name	CPU	RAM	Bandwidth	Est. Cost	Location Options
 
 Hetzner	CX11	1	2GB	20TB	€4.15/mo	🇩🇪 🇫🇮 🇺🇸
+
 Oracle Cloud	Always Free	4	24GB	10TB	Free*	🇺🇸 🇬🇧 🇮🇳 🇯🇵
+
 Digital Ocean	Basic Droplet	1	1GB	1TB	$5/mo	🇺🇸 🇬🇧 🇸🇬 🇩🇪 🇯🇵
+
 Linode	Nanode	1	1GB	1TB	$5/mo	🇺🇸 🇬🇧 🇩🇪 🇯🇵 🇸🇬
+
 AWS Lightsail	Basic	1	0.5GB	1TB	$3.50/mo	🌍 Global
 
 
